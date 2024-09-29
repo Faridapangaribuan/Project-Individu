@@ -17,4 +17,5 @@ function Cartlist({ cart, updateQuantity }) {
 }
 
 export default Cartlist;
-// cart
+
+// Cartlist
