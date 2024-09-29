@@ -3,7 +3,7 @@ import CartItem from './CartItem';
 
 function Cartlist({ cart, updateQuantity }) {
   return (
-    <div className="cartlist">
+    <div className="Cartlist">
     {cart.map(product => (
         <CartItem
             key={product.id}

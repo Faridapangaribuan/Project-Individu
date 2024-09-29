@@ -1,8 +1,7 @@
 
 import { useState, useEffect } from 'react';
 import Navbar from './Component/Navbar';
-import Cartlist from './Component/Cartlist';
-import CartItem from './Component/CartItem';
+import Cartlist from './Component/Cartlist'; 
 import './App.css';
 
 
