@@ -1,0 +1,53 @@
+/* Styling untuk Navbar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #003247;
+    color: white;
+}
+
+nav h1 {
+    margin: 0;
+}
+
+/* Styling untuk Cartlist */
+.cartlist {
+    padding: 20px;
+}
+
+/* Styling untuk CartItem */
+.cart-item {
+    display: flex;
+    margin-bottom: 10px;
+    border: 1px solid #013227;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.cart-item img {
+    width: 100px;
+    margin-right: 15px;
+}
+
+/* Styling untuk Counter */
+.counter {
+    display: flex;
+    align-items: center;
+}
+
+.counter button {
+    margin: 0 5px;
+}
+
+/* Styling untuk total price */
+.total-price {
+    font-weight: bold;
+}
+
+/* Styling untuk quantity */
+.quantity {
+    margin: 0 5px;
+}
